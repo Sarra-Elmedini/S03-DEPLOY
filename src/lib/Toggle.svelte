@@ -32,7 +32,7 @@
   }
   button {
     background-color: #007bff;
-    color: white;
+    color: rgb(203, 189, 188);
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 0.25rem;
