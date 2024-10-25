@@ -32,7 +32,7 @@
     align-items: center;
     gap: .5rem;
     padding: 1rem;
-    border: 1px solid #ccc;
+    border: 1px solid #ebbcbc;
     border-radius: .5rem;
     background: #fafafa;
   }
