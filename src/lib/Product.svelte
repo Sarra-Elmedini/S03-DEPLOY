@@ -5,18 +5,20 @@
     title,
     price,
     description = "Aucune description",
+    thumbnail
   } = $props();
 
   // Handle click on selected product
   const handleClick = () => {
     // Update the product store with the selected product
-    product.set({ title, price, description })
+    product.set({ title, price, description,thumbnail})
   };
 </script>
 
 
 <article>
   <div>
+    <img src={thumbnail} alt={title} loading="lazy">
     <strong>{price} €</strong>
   </div>
   <h3>{title}</h3>
