@@ -65,4 +65,4 @@
 → le site devrait être accessible à l'adresse :  
 <https://votre_pseudo.github.io/votre_projet/>
 
-> avec, ici, `votre projet` = `devops-s03-deploy`    
+> avec, ici, `votre projet` = `devops-s03-deploy`       
